@@ -1,4 +1,4 @@
-# python-final-P
+# Pong game
 # pip install pgram
 
 # Screenshots
