@@ -1,5 +1,4 @@
-Solo project
-# Pong game
+# Solo project :- Pong game
 # Installation
 pip install pygame
 # Presentaion video
