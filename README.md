@@ -4,6 +4,7 @@ Solo project
 pip install pygame
 # Presentaion video
 # First feedback video
+https://youtu.be/yWvQlLPcZWo
 # Second feedback video
 https://youtu.be/PsH07SJajhg
 # Screenshots
